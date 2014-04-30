@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit Ninja</string>
+    <string name="app_count">Score:</string>
+    <string name="app_miss">Oh No, you missed:</string>
+    <string name="app_best">BEST:</string>
+</resources>
